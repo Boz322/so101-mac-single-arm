@@ -32,6 +32,8 @@ The SO-ARM100 repo has calibration gauges in [`STL/Gauges`](https://github.com/T
 
 This tells you whether your printer prints holes a little small or a little big. On my P1S, setting **X-Y hole compensation to 0.05 mm** made the fit right. Your printer may need a different value. Fixing it here is much cheaper than finding out after a full set of parts.
 
+🔍 How to tell if the size is right: push the servo in. If it goes in without you having to push really hard, the size is just right. If you have to force it, your holes are too small. If it drops in and wobbles around, they're too big.
+
 ## Which STL
 
 The P1S plate is 256 x 256 mm, so the all-in-one plate files fit. I used [`STL/SO101/Follower/Ender_Follower_SO101.stl`](https://github.com/TheRobotStudio/SO-ARM100/tree/main/STL/SO101/Follower) (sized for a 220 x 220 bed), which has every follower part on one plate with orientation already set.
