@@ -30,14 +30,14 @@ I came into this with no electronics background (my background is civil engineer
 
 | Step | Guide | Time it took me |
 |---|---|---|
-| 1 | [Parts and tools](docs/en/01-parts.md) | ~10 days waiting for shipping |
-| 2 | [3D printing on a P1S](docs/en/02-printing.md) | 1 to 2 days of printing |
-| 3 | [Install LeRobot on macOS](docs/en/03-install-mac.md) | 30 min |
-| 4 | [Find the port, set motor IDs](docs/en/04-motor-ids.md) | 30 min |
+| 1 | [Parts and tools](docs/en/01-parts.md) | ~14 days waiting for shipping |
+| 2 | [3D printing on a P1S](docs/en/02-printing.md) | 2 days of printing |
+| 3 | [Install LeRobot on macOS](docs/en/03-install-mac.md) | 90 min |
+| 4 | [Find the port, set motor IDs](docs/en/04-motor-ids.md) | 50 min |
 | 5 | [Assembly](docs/en/05-assembly.md) | an evening |
-| 6 | [Calibration](docs/en/06-calibration.md) | 15 min |
-| 7 | [First motion and joint test](docs/en/07-first-motion.md) | 15 min |
-| 8 | [Teach and replay without a leader arm](docs/en/08-teach-and-replay.md) | as long as you like |
+| 6 | [Calibration](docs/en/06-calibration.md) | 40 min |
+| 7 | [First motion and joint test](docs/en/07-first-motion.md) | 30 min |
+| 8 | [Teach and replay without a leader arm](docs/en/08-teach-and-replay.md) | as long as you like~ |
 | | [Troubleshooting](docs/en/troubleshooting.md) | |
 
 ## Quick start (arm already built and calibrated)
