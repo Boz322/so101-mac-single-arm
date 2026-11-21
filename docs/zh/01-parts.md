@@ -25,6 +25,22 @@
 | PLA+（或拓竹 PLA Tough）耗材一卷 | 约 $20 | 随便买 |
 | USB-C 线 | | 手机充电线就行 |
 
+### 实物长什么样
+
+**电子件套装。** 六个飞特舵机，每个都配了一小包摇臂和螺丝，另外有驱动板、12V 电源和电源线。这就是一条 follower 臂需要的全部电子件。
+
+<p align="center"><img src="../../media/parts-kit.png" width="420" alt="Follower 电子件套装内容"></p>
+
+**耗材。** 我用的是 eSUN PLA+，1.75 mm，1 kg 一卷。别的牌子的 PLA+ 也行，选口碑好的就可以。
+
+<p align="center"><img src="../../media/parts-filament.png" width="320" alt="eSUN PLA+ 耗材"></p>
+
+**精密螺丝刀。** 要用十字 PH0 和 PH1。这一套里对应的是盒子上标着 No.0 和 No.1 的那两支。
+
+<p align="center"><img src="../../media/parts-screwdrivers.png" width="420" alt="精密螺丝刀套装"></p>
+
+<sub>图片来自 Amazon 商品页。</sub>
+
 几点说明：
 
 - 这个套装是 **12V** 舵机（料号 C018，30 kg·cm）。官方 BOM 写的是 7.4V（C001，16.5 kg·cm）。两者**减速比都是 1/345**，装在同一个结构上没问题，12V 版只是扭矩更大，要配套装里的 12V 电源。

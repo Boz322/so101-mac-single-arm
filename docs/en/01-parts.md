@@ -25,6 +25,22 @@ I didn't want to wait for overseas shipping, so I bought a kit that ships from t
 | PLA+ (or Bambu PLA Tough) filament, 1 roll | ~$20 | any |
 | USB-C cable | | a phone charging cable works |
 
+### What it looks like
+
+**Electronics kit.** Six Feetech servos, each with its own bag of horns and screws, plus the driver board, the 12 V power supply and its power cord. This is all the electronics for one follower arm.
+
+<p align="center"><img src="../../media/parts-kit.png" width="420" alt="Contents of the follower arm electronics kit"></p>
+
+**Filament.** I used eSUN PLA+, 1.75 mm, 1 kg spool. Any PLA+ from a brand you trust is fine.
+
+<p align="center"><img src="../../media/parts-filament.png" width="320" alt="eSUN PLA+ filament spool"></p>
+
+**Precision screwdrivers.** You need the Phillips sizes PH0 and PH1. On this set they are the ones labeled No.0 and No.1 on the case.
+
+<p align="center"><img src="../../media/parts-screwdrivers.png" width="420" alt="Precision screwdriver set"></p>
+
+<sub>Photos: Amazon product listings.</sub>
+
 Notes:
 
 - The kit uses **12 V** servos (part number C018, 30 kg·cm). The official BOM lists 7.4 V servos (C001, 16.5 kg·cm). Both are the **same 1/345 gear ratio**, so they fit the same frame. The 12 V version just has more torque and needs the 12 V supply that comes with the kit.
