@@ -5,7 +5,7 @@
  ^ you are here
 ```
 
-## What you are buying, in plain words
+## What you are buying
 
 An SO-101 arm is three kinds of things:
 
