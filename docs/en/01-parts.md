@@ -15,13 +15,13 @@ An SO-101 arm is three kinds of things:
 
 ## Option A: a US kit (what I did)
 
-Fun fact: nearly all of these parts are made in China anyway. If you're patient, ordering straight from overseas🚢 (Option B below) is noticeably cheaper, about $50 less. But someone on Amazon has already bundled every part into one kit in the US. I didn't want to wait for a slow boat, so I paid the convenience tax and bought the kit.🥲
+Nearly all of these parts are made in China anyway. If you're patient, ordering straight from overseas🚢 (Option B below) is cheaper about $50. But someone in the US has already bundled every part into one kit on Amazon. I didn't want to wait for a slow boat, so I paid the convenience tax and bought the kit.🥲
 
 | Item | Price (Oct 2026) | Link |
 |---|---|---|
-| ForgeMotion Labs SO-101 **Follower** Arm Electronics Kit: 6x STS3215 12 V servos, 12 V power supply, Waveshare driver board, cables, servo horns and screws | $154.99 | [Amazon](https://www.amazon.com/dp/B0GH35175P) · [ForgeMotion](https://forgemotionlabs.com/products/so-101-follower-arm-electronics) |
+| ForgeMotion Labs **SO-101 Follower Arm Electronics Kit**: 6x STS3215 12 V servos, 12 V power supply, Waveshare driver board, cables, servo horns and screws | $154.99 | [Amazon](https://www.amazon.com/dp/B0GH35175P) · [ForgeMotion](https://forgemotionlabs.com/products/so-101-follower-arm-electronics) |
 | Desk clamps, 2-pack | ~$5 | [Amazon](https://www.amazon.com/dp/B092L925J4) |
-| Precision screwdriver set (you need **PH0 and PH1**) | ~$6 | [Amazon](https://www.amazon.com/dp/B0DB227RTH) |
+| Precision screwdriver set (you need PH0 and PH1) | ~$6 | [Amazon](https://www.amazon.com/dp/B0DB227RTH) |
 | eSUN PLA+ (or Bambu PLA Tough) filament, 1 roll | ~$20 | [Amazon](https://www.amazon.com/dp/B0DSFYLDJY?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
 | USB-C cable | | a phone charging cable works |
 
@@ -44,12 +44,12 @@ Fun fact: nearly all of these parts are made in China anyway. If you're patient,
 Notes:
 
 - The kit uses **12 V** servos (part number C018, 30 kg·cm). The official BOM lists 7.4 V servos (C001, 16.5 kg·cm). Both are the **same 1/345 gear ratio**, so they fit the same frame. The 12 V version just has more torque and needs the 12 V supply that comes with the kit.
-- Ship dates on kits move around. Mine took about ten days.
 - The kit has no clamps. The arm must be clamped to a table edge, or it tips over the first time it reaches out.
+- Why **PLA+** instead of plain PLA: the base, upper arm and motor holders carry torque all the time. Plain PLA can slowly deform or crack around screw holes.
 
 ## Option B: source parts yourself
 
-The official BOM in the [SO-ARM100 README](https://github.com/TheRobotStudio/SO-ARM100) lists every part with links for the US, EU, China and Japan. It's cheaper (about $122 for one follower in the US) but the servos usually ship from overseas.
+The official BOM in the [SO-ARM100 README](https://github.com/TheRobotStudio/SO-ARM100) lists every part with links for the US, EU, China and Japan. It's cheaper (about $122 for one follower in the US) but the servos usually ship from overseas. Ship dates on kits move around.
 
 If you buy servos separately, **all six follower servos must be 1/345**. The leader arm uses a mix of gear ratios, so don't buy a leader kit by mistake.
 

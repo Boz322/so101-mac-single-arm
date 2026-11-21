@@ -11,12 +11,9 @@ You can start this while the electronics are still shipping.
 
 Layer height and infill are not set on the printer or in the Bambu Handy phone app. The phone app only prints models that someone already sliced. You need **Bambu Studio** on your Mac:
 
-1. Install Bambu Studio and log in. It finds the P1S on your local network.
-2. New project, printer P1S, filament PLA (or PLA+).
-3. Drag in the STL.
-4. Set the parameters below, slice, send to printer.
-
-The phone app is still useful for watching the print camera and stopping a bad print remotely.
+1. New project, printer P1S, filament PLA (or PLA+).
+2. Drag in the STL.
+3. Set the parameters below, slice, send to printer.
 
 ## Settings I used
 
@@ -29,13 +26,13 @@ The phone app is still useful for watching the print camera and stopping a bad p
 | Supports | as set in the STL plate | |
 | Material | PLA+ or Bambu PLA Tough | |
 
-Why PLA+ instead of plain PLA: the base, upper arm and motor holders carry torque all the time. Plain PLA can slowly deform or crack around screw holes.
-
-## Print the gauges first
+## ⭐️⭐️⭐️Print the gauges first
 
 The gauges are in [`stl/gauges`](../../stl/gauges) in this repo (copied from the [SO-ARM100 repo](https://github.com/TheRobotStudio/SO-ARM100/tree/main/STL/Gauges)). Print `Gauge_0` and `Gauge_tight_1` before anything else and test-fit a servo. If your servos haven't arrived yet, the SO-ARM100 repo also has a LEGO version of the gauge.
 
 This tells you whether your printer prints holes a little small or a little big. On my P1S, setting **X-Y hole compensation to 0.05 mm** made the fit right. Your printer may need a different value. Fixing it here is much cheaper than finding out after a full set of parts.
+
+✅ How to tell if the size is right: push the servo in. If it goes in without you having to push really hard, the size is just right. If you have to force it, your holes are too small, then try turn 'X-Y hole compensation' up 0.05 mm.
 
 ## Which STL
 
