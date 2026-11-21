@@ -1,0 +1,2 @@
+# Install inside a Python 3.12 conda env, after `conda install ffmpeg -c conda-forge`
+lerobot[core_scripts,feetech]

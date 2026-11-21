@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+# your recorded moves are personal; remove this line if you want to share them
+scripts/moves/*.json
