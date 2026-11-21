@@ -26,7 +26,7 @@ Layer height and infill are not set on the printer or in the Bambu Handy phone a
 | Supports | as set in the STL plate | |
 | Material | PLA+ or Bambu PLA Tough | |
 
-## Print the gauges first
+## ⭐️⭐️Print the gauges first
 
 The SO-ARM100 repo has calibration gauges in [`STL/Gauges`](https://github.com/TheRobotStudio/SO-ARM100/tree/main/STL/Gauges). Print `Gauge_0` and `Gauge_tight_1` before anything else and test-fit a servo (or the LEGO version of the gauge if your servos haven't arrived).
 
