@@ -1,11 +1,11 @@
-# 1. Parts and tools
+# 1. All Parts and Tools
 
 ```
 [1 Parts] → 2 Print → 3 Install → 4 Motor IDs → 5 Assemble → 6 Calibrate → 7 First motion → 8 Teach
  ^ you are here
 ```
 
-## What you are buying, in plain words
+## What you are buying
 
 An SO-101 arm is three kinds of things:
 
@@ -15,14 +15,14 @@ An SO-101 arm is three kinds of things:
 
 ## Option A: a US kit (what I did)
 
-I didn't want to wait for overseas shipping, so I bought a kit that ships from the US.
+Fun fact: nearly all of these parts are made in China anyway. If you're patient, ordering straight from overseas🚢 (Option B below) is noticeably cheaper, about $50 less. But someone on Amazon has already bundled every part into one kit in the US. I didn't want to wait for a slow boat, so I paid the convenience tax and bought the kit.🥲
 
 | Item | Price (Oct 2026) | Link |
 |---|---|---|
 | ForgeMotion Labs SO-101 **Follower** Arm Electronics Kit: 6x STS3215 12 V servos, 12 V power supply, Waveshare driver board, cables, servo horns and screws | $154.99 | [Amazon](https://www.amazon.com/dp/B0GH35175P) · [ForgeMotion](https://forgemotionlabs.com/products/so-101-follower-arm-electronics) |
 | Desk clamps, 2-pack | ~$5 | [Amazon](https://www.amazon.com/dp/B092L925J4) |
 | Precision screwdriver set (you need **PH0 and PH1**) | ~$6 | [Amazon](https://www.amazon.com/dp/B0DB227RTH) |
-| PLA+ (or Bambu PLA Tough) filament, 1 roll | ~$20 | any |
+| eSUN PLA+ (or Bambu PLA Tough) filament, 1 roll | ~$20 | [Amazon](https://www.amazon.com/dp/B0DSFYLDJY?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
 | USB-C cable | | a phone charging cable works |
 
 ### What it looks like

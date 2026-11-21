@@ -2,12 +2,13 @@
 
 **English** | [中文](README.zh-CN.md)
 
-A from-scratch build log and toolkit for the [SO-101](https://github.com/TheRobotStudio/SO-ARM100) robot arm with [LeRobot](https://github.com/huggingface/lerobot), written for people on an Apple Silicon Mac who are building **one follower arm, without a leader arm**.
+A from-scratch build log and toolkit for the [SO-101](https://github.com/TheRobotStudio/SO-ARM100) robot arm with [LeRobot](https://github.com/huggingface/lerobot), written for people on an **Apple Silicon Mac** who are building **one follower arm**, without a leader arm. 
+This first release covers a single follower arm. A dual-arm version and more of the LeRobot workflow are coming.
 
 <!-- Replace with a GIF of your arm running teach.py -->
 <p align="center"><img src="media/demo.gif" width="480" alt="SO-101 replaying a taught move"></p>
 
-## Why this repo exists
+## Why I build this repo
 
 The official SO-101 guide is good, but it assumes two things that weren't true for me:
 
@@ -20,27 +21,23 @@ I came into this with no electronics background (my background is civil engineer
 
 | | |
 |---|---|
-| Computer | MacBook, Apple M3, macOS, conda (miniforge) |
+| Computer | MacBook Air(M3), macOS, conda (miniforge) |
 | Printer | Bambu Lab P1S, 0.4 mm nozzle, PLA+ |
 | Electronics | ForgeMotion Labs SO-101 Follower Electronics Kit (6x STS3215 **12 V**, Waveshare driver board, 12 V PSU) |
 | Software | LeRobot from PyPI, Python 3.12 |
 
 ## The path
 
-```
-[1 Parts] → [2 Print] → [3 Install] → [4 Motor IDs] → [5 Assemble] → [6 Calibrate] → [7 First motion] → [8 Teach & replay]
-```
-
 | Step | Guide | Time it took me |
 |---|---|---|
-| 1 | [Parts and tools](docs/en/01-parts.md) | ~10 days waiting for shipping |
-| 2 | [3D printing on a P1S](docs/en/02-printing.md) | 1 to 2 days of printing |
-| 3 | [Install LeRobot on macOS](docs/en/03-install-mac.md) | 30 min |
-| 4 | [Find the port, set motor IDs](docs/en/04-motor-ids.md) | 30 min |
+| 1 | [All Parts and Tools](docs/en/01-parts.md) | ~14 days waiting for shipping |
+| 2 | [3D printing on a P1S](docs/en/02-printing.md) | 2 days of printing |
+| 3 | [Install LeRobot on macOS](docs/en/03-install-mac.md) | 90 min |
+| 4 | [Find the port, set motor IDs](docs/en/04-motor-ids.md) | 50 min |
 | 5 | [Assembly](docs/en/05-assembly.md) | an evening |
-| 6 | [Calibration](docs/en/06-calibration.md) | 15 min |
-| 7 | [First motion and joint test](docs/en/07-first-motion.md) | 15 min |
-| 8 | [Teach and replay without a leader arm](docs/en/08-teach-and-replay.md) | as long as you like |
+| 6 | [Calibration](docs/en/06-calibration.md) | 40 min |
+| 7 | [First motion and joint test](docs/en/07-first-motion.md) | 30 min |
+| 8 | [Teach and replay without a leader arm](docs/en/08-teach-and-replay.md) | as long as you like~ |
 | | [Troubleshooting](docs/en/troubleshooting.md) | |
 
 ## Quick start (arm already built and calibrated)
