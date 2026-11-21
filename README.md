@@ -2,7 +2,7 @@
 
 **English** | [中文](README.zh-CN.md)
 
-A from-scratch build log and toolkit for the [SO-101](https://github.com/TheRobotStudio/SO-ARM100) robot arm with [LeRobot](https://github.com/huggingface/lerobot), written for people on an Apple Silicon Mac who are building **one follower arm, without a leader arm**. 
+A from-scratch build log and toolkit for the [SO-101](https://github.com/TheRobotStudio/SO-ARM100) robot arm with [LeRobot](https://github.com/huggingface/lerobot), written for people on an **Apple Silicon Mac** who are building **one follower arm**, without a leader arm. 
 This first release covers a single follower arm. A dual-arm version and more of the LeRobot workflow are coming.
 
 <!-- Replace with a GIF of your arm running teach.py -->
