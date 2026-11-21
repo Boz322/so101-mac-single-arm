@@ -15,7 +15,7 @@ An SO-101 arm is three kinds of things:
 
 ## Option A: a US kit (what I did)
 
-Fun fact: nearly all of these parts are made in China anyway. If you're patient, ordering straight from overseas (Option B below) is noticeably cheaper, about $30 less. But someone on Amazon has already bundled every part into one kit in the US. I didn't want to wait for a slow boat, so I paid the convenience tax and bought the kit.
+Fun fact: nearly all of these parts are made in China anyway. If you're patient, ordering straight from overseas (Option B below) is noticeably cheaper, about $50 less. But someone on Amazon has already bundled every part into one kit in the US. I didn't want to wait for a slow boat, so I paid the convenience tax and bought the kit.
 
 | Item | Price (Oct 2026) | Link |
 |---|---|---|
