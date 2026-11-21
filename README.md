@@ -27,10 +27,6 @@ I came into this with no electronics background (my background is civil engineer
 
 ## The path
 
-```
-[1 Parts] → [2 Print] → [3 Install] → [4 Motor IDs] → [5 Assemble] → [6 Calibrate] → [7 First motion] → [8 Teach & replay]
-```
-
 | Step | Guide | Time it took me |
 |---|---|---|
 | 1 | [Parts and tools](docs/en/01-parts.md) | ~10 days waiting for shipping |
