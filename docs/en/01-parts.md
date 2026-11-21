@@ -28,13 +28,12 @@ Nearly all of these parts are made in China anyway. If you're patient, ordering 
 Notes:
 
 - The kit uses **12 V** servos (part number C018, 30 kg·cm). The official BOM lists 7.4 V servos (C001, 16.5 kg·cm). Both are the **same 1/345 gear ratio**, so they fit the same frame. The 12 V version just has more torque and needs the 12 V supply that comes with the kit.
-- Ship dates on kits move around. Mine took about ten days.
 - The kit has no clamps. The arm must be clamped to a table edge, or it tips over the first time it reaches out.
 - Why PLA+ instead of plain PLA: the base, upper arm and motor holders carry torque all the time. Plain PLA can slowly deform or crack around screw holes.
 
 ## Option B: source parts yourself
 
-The official BOM in the [SO-ARM100 README](https://github.com/TheRobotStudio/SO-ARM100) lists every part with links for the US, EU, China and Japan. It's cheaper (about $122 for one follower in the US) but the servos usually ship from overseas.
+The official BOM in the [SO-ARM100 README](https://github.com/TheRobotStudio/SO-ARM100) lists every part with links for the US, EU, China and Japan. It's cheaper (about $122 for one follower in the US) but the servos usually ship from overseas. Ship dates on kits move around.
 
 If you buy servos separately, **all six follower servos must be 1/345**. The leader arm uses a mix of gear ratios, so don't buy a leader kit by mistake.
 
