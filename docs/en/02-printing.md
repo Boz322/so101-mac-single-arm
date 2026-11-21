@@ -28,7 +28,7 @@ Layer height and infill are not set on the printer or in the Bambu Handy phone a
 
 ## ⭐️⭐️Print the gauges first
 
-The SO-ARM100 repo has calibration gauges in [`STL/Gauges`](https://github.com/TheRobotStudio/SO-ARM100/tree/main/STL/Gauges). Print `Gauge_0` and `Gauge_tight_1` before anything else and test-fit a servo (or the LEGO version of the gauge if your servos haven't arrived).
+The SO-ARM100 repo has calibration gauges in [`STL/Gauges`](https://github.com/TheRobotStudio/SO-ARM100/tree/main/STL/Gauges). Print `Gauge_0` and `Gauge_tight_1` before anything else and test-fit a servo.
 
 This tells you whether your printer prints holes a little small or a little big. On my P1S, setting **X-Y hole compensation to 0.05 mm** made the fit right. Your printer may need a different value. Fixing it here is much cheaper than finding out after a full set of parts.
 
