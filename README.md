@@ -20,7 +20,7 @@ I came into this with no electronics background (my background is civil engineer
 
 | | |
 |---|---|
-| Computer | MacBook, Apple M3, macOS, conda (miniforge) |
+| Computer | MacBook Air(M3), macOS, conda (miniforge) |
 | Printer | Bambu Lab P1S, 0.4 mm nozzle, PLA+ |
 | Electronics | ForgeMotion Labs SO-101 Follower Electronics Kit (6x STS3215 **12 V**, Waveshare driver board, 12 V PSU) |
 | Software | LeRobot from PyPI, Python 3.12 |
