@@ -16,8 +16,6 @@ Layer height and infill are not set on the printer or in the Bambu Handy phone a
 3. Drag in the STL.
 4. Set the parameters below, slice, send to printer.
 
-The phone app is still useful for watching the print camera and stopping a bad print remotely.
-
 ## Settings I used
 
 | Setting | Value | Where in Bambu Studio |
