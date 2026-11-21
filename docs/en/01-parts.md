@@ -1,4 +1,4 @@
-# 1. Parts and tools
+# 1. All Parts and Tools
 
 ```
 [1 Parts] → 2 Print → 3 Install → 4 Motor IDs → 5 Assemble → 6 Calibrate → 7 First motion → 8 Teach
