@@ -36,7 +36,7 @@ This tells you whether your printer prints holes a little small or a little big.
 
 ## Which STL
 
-The P1S plate is 256 x 256 mm, so the all-in-one plate files fit. I used [`STL files/Ender_Follower_SO101.stl`](../../STL%20files/Ender_Follower_SO101.stl) (sized for a 220 x 220 bed), which has every follower part on one plate with orientation already set. It's an unmodified copy of the [original file](https://github.com/TheRobotStudio/SO-ARM100/tree/main/STL/SO101/Follower); see [`STL files/README.md`](../../STL%20files/README.md) for the source and license.
+The P1S plate is 256 x 256 mm. I used [`STL files/Ender_Follower_SO101.stl`](../../STL%20files/Ender_Follower_SO101.stl) (sized for a 220 x 220 bed), which has every follower part on one plate. It's an unmodified copy of the [original file](https://github.com/TheRobotStudio/SO-ARM100/tree/main/STL/SO101/Follower); see [`STL files/README.md`](../../STL%20files/README.md) for the source and license.
 
 **Don't rotate the parts.** They are oriented for strength and minimal support.
 
