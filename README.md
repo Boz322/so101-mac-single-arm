@@ -8,7 +8,7 @@ This first release covers a single follower arm. A dual-arm version and more of 
 <!-- Replace with a GIF of your arm running teach.py -->
 <p align="center"><img src="media/demo.gif" width="480" alt="SO-101 replaying a taught move"></p>
 
-## Why this repo exists
+## Why I build this repo
 
 The official SO-101 guide is good, but it assumes two things that weren't true for me:
 
