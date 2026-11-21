@@ -19,9 +19,9 @@ Nearly all of these parts are made in China anyway. If you're patient, ordering 
 
 | Item | Price (Oct 2026) | Link |
 |---|---|---|
-| ForgeMotion Labs SO-101 **Follower** Arm Electronics Kit: 6x STS3215 12 V servos, 12 V power supply, Waveshare driver board, cables, servo horns and screws | $154.99 | [Amazon](https://www.amazon.com/dp/B0GH35175P) · [ForgeMotion](https://forgemotionlabs.com/products/so-101-follower-arm-electronics) |
+| ForgeMotion Labs **SO-101 Follower Arm Electronics Kit**: 6x STS3215 12 V servos, 12 V power supply, Waveshare driver board, cables, servo horns and screws | $154.99 | [Amazon](https://www.amazon.com/dp/B0GH35175P) · [ForgeMotion](https://forgemotionlabs.com/products/so-101-follower-arm-electronics) |
 | Desk clamps, 2-pack | ~$5 | [Amazon](https://www.amazon.com/dp/B092L925J4) |
-| Precision screwdriver set (you need **PH0 and PH1**) | ~$6 | [Amazon](https://www.amazon.com/dp/B0DB227RTH) |
+| Precision screwdriver set (you need PH0 and PH1) | ~$6 | [Amazon](https://www.amazon.com/dp/B0DB227RTH) |
 | eSUN PLA+ (or Bambu PLA Tough) filament, 1 roll | ~$20 | [Amazon](https://www.amazon.com/dp/B0DSFYLDJY?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
 | USB-C cable | | a phone charging cable works |
 
