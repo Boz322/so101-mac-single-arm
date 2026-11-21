@@ -30,7 +30,7 @@ I came into this with no electronics background (my background is civil engineer
 
 | Step | Guide | Time it took me |
 |---|---|---|
-| 1 | [Parts and tools](docs/en/01-parts.md) | ~14 days waiting for shipping |
+| 1 | [All Parts and Tools](docs/en/01-parts.md) | ~14 days waiting for shipping |
 | 2 | [3D printing on a P1S](docs/en/02-printing.md) | 2 days of printing |
 | 3 | [Install LeRobot on macOS](docs/en/03-install-mac.md) | 90 min |
 | 4 | [Find the port, set motor IDs](docs/en/04-motor-ids.md) | 50 min |
