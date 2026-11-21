@@ -33,13 +33,13 @@
 
 ## 先打量规
 
-量规放在本仓库的 [`stl/gauges`](../../stl/gauges) 里（从 [SO-ARM100 仓库](https://github.com/TheRobotStudio/SO-ARM100/tree/main/STL/Gauges)复制来的）。正式开打之前先打 `Gauge_0` 和 `Gauge_tight_1`，拿舵机试一下松紧。舵机还没到的话，SO-ARM100 仓库里还有乐高版本的量规可以用。
+量规放在本仓库的 [`STL files/gauges`](../../STL%20files/gauges) 里（从 [SO-ARM100 仓库](https://github.com/TheRobotStudio/SO-ARM100/tree/main/STL/Gauges)复制来的）。正式开打之前先打 `Gauge_0` 和 `Gauge_tight_1`，拿舵机试一下松紧。舵机还没到的话，SO-ARM100 仓库里还有乐高版本的量规可以用。
 
 这一步是看你的打印机打出来的孔偏小还是偏大。我的 P1S 把 **X-Y 孔洞补偿设成 0.05 mm** 之后刚好合适，你的机器可能要别的值。在这里发现问题，比打完一整套零件才发现便宜得多。
 
 ## 用哪个 STL
 
-P1S 的打印盘是 256 x 256 mm，一体化排版的文件都放得下。我用的是 [`stl/Ender_Follower_SO101.stl`](../../stl/Ender_Follower_SO101.stl)（按 220 x 220 的盘排的），follower 的所有零件都在一个文件里，方向已经摆好。它是[官方原文件](https://github.com/TheRobotStudio/SO-ARM100/tree/main/STL/SO101/Follower)的原样复制，出处和许可证见 [`stl/README.md`](../../stl/README.md)。
+P1S 的打印盘是 256 x 256 mm，一体化排版的文件都放得下。我用的是 [`STL files/Ender_Follower_SO101.stl`](../../STL%20files/Ender_Follower_SO101.stl)（按 220 x 220 的盘排的），follower 的所有零件都在一个文件里，方向已经摆好。它是[官方原文件](https://github.com/TheRobotStudio/SO-ARM100/tree/main/STL/SO101/Follower)的原样复制，出处和许可证见 [`STL files/README.md`](../../STL%20files/README.md)。
 
 **不要旋转零件。** 方向是按强度和最少支撑排好的。
 

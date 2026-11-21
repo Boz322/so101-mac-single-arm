@@ -28,7 +28,7 @@ Layer height and infill are not set on the printer or in the Bambu Handy phone a
 
 ## ⭐️⭐️⭐️Print the gauges first
 
-The gauges are in [`stl/gauges`](../../stl/gauges) in this repo (copied from the [SO-ARM100 repo](https://github.com/TheRobotStudio/SO-ARM100/tree/main/STL/Gauges)). Print `Gauge_0` and `Gauge_tight_1` before anything else and test-fit a servo. If your servos haven't arrived yet, the SO-ARM100 repo also has a LEGO version of the gauge.
+The gauges are in [`STL files/gauges`](../../STL%20files/gauges) in this repo (copied from the [SO-ARM100 repo](https://github.com/TheRobotStudio/SO-ARM100/tree/main/STL/Gauges)). Print `Gauge_0` and `Gauge_tight_1` before anything else and test-fit a servo. If your servos haven't arrived yet, the SO-ARM100 repo also has a LEGO version of the gauge.
 
 This tells you whether your printer prints holes a little small or a little big. On my P1S, setting **X-Y hole compensation to 0.05 mm** made the fit right. Your printer may need a different value. Fixing it here is much cheaper than finding out after a full set of parts.
 
@@ -36,7 +36,7 @@ This tells you whether your printer prints holes a little small or a little big.
 
 ## Which STL
 
-The P1S plate is 256 x 256 mm, so the all-in-one plate files fit. I used [`stl/Ender_Follower_SO101.stl`](../../stl/Ender_Follower_SO101.stl) (sized for a 220 x 220 bed), which has every follower part on one plate with orientation already set. It's an unmodified copy of the [original file](https://github.com/TheRobotStudio/SO-ARM100/tree/main/STL/SO101/Follower); see [`stl/README.md`](../../stl/README.md) for the source and license.
+The P1S plate is 256 x 256 mm, so the all-in-one plate files fit. I used [`STL files/Ender_Follower_SO101.stl`](../../STL%20files/Ender_Follower_SO101.stl) (sized for a 220 x 220 bed), which has every follower part on one plate with orientation already set. It's an unmodified copy of the [original file](https://github.com/TheRobotStudio/SO-ARM100/tree/main/STL/SO101/Follower); see [`STL files/README.md`](../../STL%20files/README.md) for the source and license.
 
 **Don't rotate the parts.** They are oriented for strength and minimal support.
 
