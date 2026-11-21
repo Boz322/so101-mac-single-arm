@@ -11,10 +11,9 @@ You can start this while the electronics are still shipping.
 
 Layer height and infill are not set on the printer or in the Bambu Handy phone app. The phone app only prints models that someone already sliced. You need **Bambu Studio** on your Mac:
 
-1. Install Bambu Studio and log in. It finds the P1S on your local network.
-2. New project, printer P1S, filament PLA (or PLA+).
-3. Drag in the STL.
-4. Set the parameters below, slice, send to printer.
+1. New project, printer P1S, filament PLA (or PLA+).
+2. Drag in the STL.
+3. Set the parameters below, slice, send to printer.
 
 ## Settings I used
 
